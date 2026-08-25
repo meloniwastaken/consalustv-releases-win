@@ -1,13 +1,13 @@
 {
-  "versionCode": 120,
-  "versionName": "0.1.20",
+  "versionCode": 121,
+  "versionName": "0.1.21",
   "note": "Corretto l'aggiornamento che si riproponeva a ogni avvio senza mai installarsi",
   "annuncia": true,
   "file": [
     {
       "nome": "ConsalusTV-Win.jar",
-      "sha256": "74db4bd87196e5e6a9ba3f369f796e0c6d88c05db64ff0162d4a579cbb55d74f",
-      "bytes": 1042817,
+      "sha256": "97c99aed078177120ca91bbf2852e69ceb0ec104c88d26b9dc0f4756288f154f",
+      "bytes": 1042818,
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/ConsalusTV-Win.jar"
     },
     {
