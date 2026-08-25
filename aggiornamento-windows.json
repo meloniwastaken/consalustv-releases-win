@@ -1,14 +1,14 @@
 {
-  "versionCode": 117,
-  "versionName": "0.1.17",
-  "note": "Aggiornamenti dall'app: primo giro sul canale nuovo",
+  "versionCode": 118,
+  "versionName": "0.1.18",
+  "note": "L'app sceglie da sola l'indirizzo del pannello: se quello in uso non risponde passa a un altro, e nelle impostazioni si puo' forzarne uno",
   "annuncia": true,
   "file": [
     {
-      "nome": "ConsalusTV-Win-0.1.17.jar",
-      "sha256": "6e59b4ba9834510b720122d4fce2c9b98e1e849f6f6630495f282e865eeb446f",
-      "bytes": 1020018,
-      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/ConsalusTV-Win-0.1.17.jar"
+      "nome": "ConsalusTV-Win-0.1.18.jar",
+      "sha256": "721e6e5299d43c4f79492044b25b090d7c30ee1a1ed24ef982fa544f5883d42c",
+      "bytes": 1033692,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/ConsalusTV-Win-0.1.18.jar"
     },
     {
       "nome": "animation-core-desktop-1.7.0.jar",
