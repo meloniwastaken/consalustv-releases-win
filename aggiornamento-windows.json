@@ -1,13 +1,13 @@
 {
-  "versionCode": 122,
-  "versionName": "0.1.22",
-  "note": "Corretto l'aggiornamento che si riproponeva a ogni avvio senza mai installarsi",
+  "versionCode": 219,
+  "versionName": "0.2.19",
+  "note": "UI rifatta come l app TV, copertine, barre di scorrimento, riconnessione automatica dello stream",
   "annuncia": true,
   "file": [
     {
       "nome": "ConsalusTV-Win.jar",
-      "sha256": "cdd25f3d2ec891e6b3d404364cf87294411fafb7272bc98ab2334f007da212ab",
-      "bytes": 1043770,
+      "sha256": "cbc5018f5a1c283a071601b916db9270555269bfc77c0ac69aff81ed9f59f932",
+      "bytes": 1336792,
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/ConsalusTV-Win.jar"
     },
     {
@@ -39,6 +39,42 @@
       "sha256": "101ff43ff563fca167af5ade98c3b69bf569010eab745013b84d8955034d3b3c",
       "bytes": 36181,
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/atomicfu-jvm-0.23.2.jar"
+    },
+    {
+      "nome": "coil-compose-core-jvm-3.0.4.jar",
+      "sha256": "a0c8585e76bf426025d509e57fa09a7f9cc030327d641b93555714646b28721b",
+      "bytes": 125257,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/coil-compose-core-jvm-3.0.4.jar"
+    },
+    {
+      "nome": "coil-compose-jvm-3.0.4.jar",
+      "sha256": "fdff25fb0065a29130ef4fc2276c91c11fd69ea8df8b1c241f648ce1b161b5a3",
+      "bytes": 13440,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/coil-compose-jvm-3.0.4.jar"
+    },
+    {
+      "nome": "coil-core-jvm-3.0.4.jar",
+      "sha256": "635860bca98d3709b5714e3356100cb20af825a28d2f930bfcb448d7f78cfbdf",
+      "bytes": 322105,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/coil-core-jvm-3.0.4.jar"
+    },
+    {
+      "nome": "coil-jvm-3.0.4.jar",
+      "sha256": "cca25e168e69956d01c5581a6523582f1809805d74c478e91802a15e321906e4",
+      "bytes": 7048,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/coil-jvm-3.0.4.jar"
+    },
+    {
+      "nome": "coil-network-core-jvm-3.0.4.jar",
+      "sha256": "3268b588b18708b91bd9db300579d3fec9970570aeda8a34a5ee5b8a94fb43f8",
+      "bytes": 60764,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/coil-network-core-jvm-3.0.4.jar"
+    },
+    {
+      "nome": "coil-network-okhttp-jvm-3.0.4.jar",
+      "sha256": "f22710d756e9d2a7886f166cb740824f3c58599da48089641b967db029723077",
+      "bytes": 19895,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/coil-network-okhttp-jvm-3.0.4.jar"
     },
     {
       "nome": "collection-jvm-1.4.0.jar",
@@ -107,10 +143,16 @@
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/kotlin-stdlib-jdk8-1.9.24.jar"
     },
     {
-      "nome": "kotlinx-coroutines-core-jvm-1.8.0.jar",
-      "sha256": "9860906a1937490bf5f3b06d2f0e10ef451e65b95b269f22daf68a3d1f5065c5",
-      "bytes": 1548360,
-      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/kotlinx-coroutines-core-jvm-1.8.0.jar"
+      "nome": "kotlinx-coroutines-core-jvm-1.9.0.jar",
+      "sha256": "ad89c2892235e670f222d819cb3d81188143cb19a05b59df9889ae4269f5c70a",
+      "bytes": 1463587,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/kotlinx-coroutines-core-jvm-1.9.0.jar"
+    },
+    {
+      "nome": "kotlinx-coroutines-swing-1.9.0.jar",
+      "sha256": "ce506d82f3642651a39fc706f3d2928d846772a64c92e749f018d7f0f216826f",
+      "bytes": 8907,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/kotlinx-coroutines-swing-1.9.0.jar"
     },
     {
       "nome": "kotlinx-datetime-jvm-0.6.0.jar",
@@ -185,10 +227,10 @@
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/okhttp-4.12.0.jar"
     },
     {
-      "nome": "okio-jvm-3.6.0.jar",
-      "sha256": "67543f0736fc422ae927ed0e504b98bc5e269fda0d3500579337cb713da28412",
-      "bytes": 359580,
-      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/okio-jvm-3.6.0.jar"
+      "nome": "okio-jvm-3.9.1.jar",
+      "sha256": "fe6fe91378f9bfa7b08c3864828ce418005cf28acca12e8847eb65c565c37500",
+      "bytes": 372276,
+      "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/okio-jvm-3.9.1.jar"
     },
     {
       "nome": "runtime-desktop-1.7.0.jar",
