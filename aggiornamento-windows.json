@@ -1,13 +1,13 @@
 {
-  "versionCode": 219,
-  "versionName": "0.2.19",
-  "note": "UI rifatta come l app TV, copertine, barre di scorrimento, riconnessione automatica dello stream",
+  "versionCode": 220,
+  "versionName": "0.2.20",
+  "note": "Il controllo aggiornamenti leggeva una copia vecchia del manifesto",
   "annuncia": true,
   "file": [
     {
       "nome": "ConsalusTV-Win.jar",
-      "sha256": "cbc5018f5a1c283a071601b916db9270555269bfc77c0ac69aff81ed9f59f932",
-      "bytes": 1336792,
+      "sha256": "4533857550a3945c14f97f8adb3b2b696b1964b9e25d217f8414d1828d3aa23e",
+      "bytes": 1336962,
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/ConsalusTV-Win.jar"
     },
     {
