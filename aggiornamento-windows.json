@@ -1,13 +1,13 @@
 {
-  "versionCode": 220,
-  "versionName": "0.2.20",
-  "note": "Il controllo aggiornamenti leggeva una copia vecchia del manifesto",
+  "versionCode": 226,
+  "versionName": "0.2.26",
+  "note": "Le dirette non restano piu' bloccate: l'interruzione si riconosce in tre secondi e il video riparte da solo.",
   "annuncia": true,
   "file": [
     {
       "nome": "ConsalusTV-Win.jar",
-      "sha256": "4533857550a3945c14f97f8adb3b2b696b1964b9e25d217f8414d1828d3aa23e",
-      "bytes": 1336962,
+      "sha256": "100502eed105d114babee5d1fd8be9125802489af8a3c893b1f9ee0a8b5ee761",
+      "bytes": 1340760,
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/ConsalusTV-Win.jar"
     },
     {
