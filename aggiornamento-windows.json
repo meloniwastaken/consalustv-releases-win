@@ -1,13 +1,13 @@
 {
-  "versionCode": 230,
-  "versionName": "0.2.30",
-  "note": "Sottotitoli che ora appaiono, dirette che non restano bloccate, e il catalogo che smette di chiedere di aggiornarsi ogni giorno.",
+  "versionCode": 234,
+  "versionName": "0.2.34",
+  "note": "Il video non chiude piu' l'applicazione cambiando canale, e i sottotitoli si vedono.",
   "annuncia": true,
   "file": [
     {
       "nome": "ConsalusTV-Win.jar",
-      "sha256": "acba9493b6c2ab691d8067296a582c0901d43ac2f324adff06015b209fad2ef9",
-      "bytes": 1345141,
+      "sha256": "8da2017faf55200dd35873bb3412042f44ec3e92445fe3a95047d6f7bab8fd39",
+      "bytes": 1346300,
       "url": "https://raw.githubusercontent.com/meloniwastaken/consalustv-releases-win/main/jar/ConsalusTV-Win.jar"
     },
     {
